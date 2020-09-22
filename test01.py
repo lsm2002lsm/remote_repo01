@@ -17,3 +17,5 @@
 txt = "/DEMO/DEMO03"
 x = txt.split("/")[2]
 print(x)
+
+print("test")
